@@ -1,5 +1,7 @@
-# node-mysql-registration-login-api
+# Back end Api developed by node js
 
-Node.js + MySQL API for User Management, Authentication and Registration
+## Installation setup
 
-For documentation and instructions see https://jasonwatmore.com/post/2020/08/18/nodejs-mysql-simple-api-for-authentication-registration-and-user-management
+1.Install Node.js and npm from https://nodejs.org/en/download/.
+2.Install MySQL Community Server from https://dev.mysql.com/downloads/mysql/ and ensure it is started. Installation instructions are available at https://dev.mysql.com/doc/refman/8.0/en/installing.html.
+3.Download or clone the project source code from `https://github.com/mahendrancse88/regovtech-back-end-take-home.git`
