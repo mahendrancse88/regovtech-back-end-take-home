@@ -13,3 +13,7 @@ NPM
 npm install
 npm start
 ```
+## Demo
+
+1.Add product
+<img src ="1.png" />
