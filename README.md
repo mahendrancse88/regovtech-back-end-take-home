@@ -31,3 +31,20 @@ npm start
 <img src ="7.png" />
 8. Delete Warehouse
 <img src ="8.png" />
+9. User register
+<img src ="9.png" />
+10. User authenticate
+<img src ="10.png" />
+11. User lists
+<img src ="11.png" />
+<img src ="10.png" />
+12. User edit
+<img src ="12.png" />
+13. get User Details
+<img src ="13.png" />
+14. Delete User 
+<img src ="14.png" />
+15.user Suspend
+<img src ="15.png" />
+16.user Reject
+<img src ="16.png" />
