@@ -17,3 +17,17 @@ npm start
 
 1.Add product
 <img src ="1.png" />
+2.Add warehouse 
+<img src ="2.png" />
+3.Stock
+<img src ="3.png" />
+4.Un Stock
+<img src ="4.png" />
+5. List product
+<img src ="5.png" />
+6. List warehouses
+<img src ="6.png" />
+7. Delete product
+<img src ="7.png" />
+8. Delete Warehouse
+<img src ="8.png" />
